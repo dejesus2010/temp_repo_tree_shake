@@ -39,7 +39,7 @@
     "loadable-components": "2.2.3",
     "lodash": "^4.17.11",
     "lodash.isempty": "^4.4.0",
-    "minimist": "1.2.0",
+    "minimist": "1.2.3",
     "moment": "^2.22.2",
     "nanoid": "^2.0.1",
     "nanoid-dictionary": "^2.0.0",
