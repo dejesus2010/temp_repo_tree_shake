@@ -41,7 +41,7 @@
     "lodash.isempty": "^4.4.0",
     "minimist": "1.2.0",
     "moment": "^2.22.2",
-    "nanoid": "^2.0.1",
+    "nanoid": "^3.1.31",
     "nanoid-dictionary": "^2.0.0",
     "nodemon": "^1.18.7",
     "nonce": "^1.0.4",
